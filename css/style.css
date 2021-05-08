@@ -162,6 +162,10 @@ body {
 /* ################### END WORK ################### */
 
 /* ################### TEAM ################### */
+.team {
+  background-color: #f5f4fa;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -190,7 +194,7 @@ body {
 /* **************** END INDEX HTML **************** */
 
 /* **************** PORTFOLIO HTML **************** */
-/* ################### FILTERS ################### */
+/* ################### FILTERS AND CARDS ################### */
 .filters-list-item-button {
   font-family: Roboto, sans-serif;
   font-weight: 500;
@@ -208,9 +212,7 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-/* ################### END FILTERS ################### */
 
-/* ################### CARDS ################### */
 .cards-list-item {
   background-color: var(--main-portfolio-background);
 }
@@ -230,5 +232,5 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-text-color);
 }
-/* ################### END CARDS ################### */
+/* ################### END FILTERS AND CARDS ################### */
 /* **************** END PORTFOLIO HTML **************** */
